@@ -1,7 +1,7 @@
 ﻿
 create database CrudApiEmployee
 go
-use Employees
+use CrudApiEmployee
 go
 create table Employees
 (
